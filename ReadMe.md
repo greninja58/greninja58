@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Web Dev skills, particularly using React.js<br>👯 I’m looking to collaborate on similar Web-Dev projects , atleast on the front-end<br>🤝 I’m looking for help with back-end like MySQL and others used in Web-Dev<br>🌱 I’m currently interested to develop in Web3 and Blockchain<br>💬 Ask me about Python and C++<br>⚡ Fun fact I am good at managing team to build projects <br>
+🔭 I’m currently working on my Web Dev skills, particularly using React.js<br>👯 I’m looking to collaborate on similar Web-Dev projects , atleast on the front-end<br>2⭐ Rated on CodeChef<br>🤝 I’m looking for help with back-end like MySQL and others used in Web-Dev<br>🌱 I’m currently interested to develop in Web3 and Blockchain<br>💬 Ask me about Python and C++<br>⚡ Fun fact I am good at managing team to build projects <br>
 
 
 ## 🌐 Socials:
